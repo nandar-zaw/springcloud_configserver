@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: ProductService
+    name: StockService
   cloud:
     consul:
       host: localhost
